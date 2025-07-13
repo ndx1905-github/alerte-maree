@@ -1,4 +1,4 @@
- /*
+/*
   ColorduinoPlasma - Plasma demo using Colorduino Library for Arduino
   Copyright (c) 2011 Sam C. Lin lincomatic@hotmail.com ALL RIGHTS RESERVED
   based on  Color cycling plasma   
@@ -19,6 +19,8 @@
   License along with this library; if not, write to the Free Software
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
+
+
 
 /*
 Pour programmer le colorduino, utiliser une arduino uno dont on a enlevé la puce
